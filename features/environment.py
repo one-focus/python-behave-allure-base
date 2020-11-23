@@ -9,10 +9,10 @@ from behave.contrib.scenario_autoretry import patch_scenario_with_autoretry
 def before_all(context):
     caps = {
         # -- Chrome browser mobile emulation and headless options
-        # 'goog:chromeOptions': {
-        #     'mobileEmulation': {'deviceName': 'iPhone X'},
-        #     'args': ['headless']
-        # }
+        'goog:chromeOptions': {
+            # 'mobileEmulation': {'deviceName': 'iPhone X'},
+            'args': ['headless']
+        }
 
         # -- Android options
         # "browserName": "android",
