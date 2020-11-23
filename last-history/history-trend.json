@@ -11,6 +11,18 @@
     "total" : 7
   }
 }, {
+  "buildOrder" : 3,
+  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 0,
+    "skipped" : 0,
+    "passed" : 7,
+    "unknown" : 0,
+    "total" : 7
+  }
+}, {
   "buildOrder" : 2,
   "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/2/",
   "reportName" : "Allure Report with history",

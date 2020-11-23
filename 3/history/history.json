@@ -4,11 +4,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "23d1233284101d4",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/23d1233284101d4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149705003,
+        "stop" : 1606149706236,
+        "duration" : 1233
+      }
+    }, {
       "uid" : "94d05a36d27891ea",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/94d05a36d27891ea",
       "status" : "passed",
@@ -33,11 +42,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 2,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     },
     "items" : [ {
+      "uid" : "f2d6b6086cef519a",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/f2d6b6086cef519a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149699902,
+        "stop" : 1606149702012,
+        "duration" : 2110
+      }
+    }, {
       "uid" : "5b7509e59d957305",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/5b7509e59d957305",
       "status" : "passed",
@@ -53,11 +71,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "5203332c58337593",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/5203332c58337593",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149702012,
+        "stop" : 1606149702809,
+        "duration" : 797
+      }
+    }, {
       "uid" : "5eac02649f30fa3",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/5eac02649f30fa3",
       "status" : "passed",
@@ -82,11 +109,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "a5464fc4ee78f010",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/a5464fc4ee78f010",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149699902,
+        "stop" : 1606149704688,
+        "duration" : 4786
+      }
+    }, {
       "uid" : "91f3248393276e71",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/91f3248393276e71",
       "status" : "passed",
@@ -111,11 +147,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "7a3b70f9305b2243",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/7a3b70f9305b2243",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149706789,
+        "stop" : 1606149708181,
+        "duration" : 1392
+      }
+    }, {
       "uid" : "85726af219103257",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/85726af219103257",
       "status" : "passed",
@@ -140,11 +185,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "d1a4c07087ed231d",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/d1a4c07087ed231d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149702810,
+        "stop" : 1606149705002,
+        "duration" : 2192
+      }
+    }, {
       "uid" : "81be902dd608807e",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/81be902dd608807e",
       "status" : "passed",
@@ -169,11 +223,20 @@
       "failed" : 0,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 3,
       "unknown" : 0,
-      "total" : 2
+      "total" : 3
     },
     "items" : [ {
+      "uid" : "242c429d2369224",
+      "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/242c429d2369224",
+      "status" : "passed",
+      "time" : {
+        "start" : 1606149706237,
+        "stop" : 1606149706788,
+        "duration" : 551
+      }
+    }, {
       "uid" : "6260ef74b7dbc7d",
       "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/6260ef74b7dbc7d",
       "status" : "passed",
