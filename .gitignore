@@ -1,3 +1,5 @@
 .idea/
 .idea/*
+allure-results/
+allure-results/*
 **/*.DS_Store
