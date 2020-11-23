@@ -16,6 +16,7 @@
 ```
 brew install python
 brew install chromedriver
+pip install git+https://github.com/behave/behave
 pip install -r requirements.txt
 ```
 ### Run 
