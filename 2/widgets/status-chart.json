@@ -1,0 +1,61 @@
+[ {
+  "uid" : "284bb923f08e1a69",
+  "name" : "Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606147708603,
+    "stop" : 1606147710939,
+    "duration" : 2336
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9961da39ca7f63f7",
+  "name" : "Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606147710939,
+    "stop" : 1606147712425,
+    "duration" : 1486
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94e5ea4f1cf37b06",
+  "name" : "Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606147707252,
+    "stop" : 1606147708602,
+    "duration" : 1350
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2ffe1325b27f834",
+  "name" : "Invalid login - data table",
+  "time" : {
+    "start" : 1606147707248,
+    "stop" : 1606147711651,
+    "duration" : 4403
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41270c94766903ce",
+  "name" : "Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606147712923,
+    "stop" : 1606147713459,
+    "duration" : 536
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "18f12e046de7955e",
+  "name" : "Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606147712426,
+    "stop" : 1606147712922,
+    "duration" : 496
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
