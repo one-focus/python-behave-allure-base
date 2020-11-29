@@ -1,0 +1,212 @@
+{
+  "uid" : "7e5d5fefa21a488c",
+  "name" : "5 Validate search",
+  "fullName" : "features/tests/Features/Feature5.feature:5 Validate search",
+  "historyId" : "da937438c9e0d51e840f4d58f9689456",
+  "time" : {
+    "start" : 1606690373489,
+    "stop" : 1606690494168,
+    "duration" : 120679
+  },
+  "status" : "broken",
+  "statusMessage" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+  "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/behave/runner.py\", line 590, in run_hook\n    self.hooks[name](context, *args)\n  File \"features/environment.py\", line 73, in after_step\n    allure.attach(context.driver.get_screenshot_as_png(),\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1064, in get_screenshot_as_png\n    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1074, in get_screenshot_as_base64\n    return self.execute(Command.SCREENSHOT)['value']\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+    "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/behave/runner.py\", line 590, in run_hook\n    self.hooks[name](context, *args)\n  File \"features/environment.py\", line 73, in after_step\n    allure.attach(context.driver.get_screenshot_as_png(),\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1064, in get_screenshot_as_png\n    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1074, in get_screenshot_as_base64\n    return self.execute(Command.SCREENSHOT)['value']\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606690373630,
+        "stop" : 1606690384128,
+        "duration" : 10498
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I type \"Test automation\" in search field",
+      "time" : {
+        "start" : 1606690384128,
+        "stop" : 1606690388134,
+        "duration" : 4006
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on search button",
+      "time" : {
+        "start" : 1606690388134,
+        "stop" : 1606690494140,
+        "duration" : 106006
+      },
+      "status" : "broken",
+      "statusMessage" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+      "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/behave/runner.py\", line 590, in run_hook\n    self.hooks[name](context, *args)\n  File \"features/environment.py\", line 73, in after_step\n    allure.attach(context.driver.get_screenshot_as_png(),\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1064, in get_screenshot_as_png\n    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1074, in get_screenshot_as_base64\n    return self.execute(Command.SCREENSHOT)['value']\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Then I see \"test automation is the use of\" on the page",
+      "time" : {
+        "start" : 1606690494168,
+        "stop" : 1606690494168,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606690494168,
+        "stop" : 1606690494168,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I type \"Test automation\" in search field",
+      "time" : {
+        "start" : 1606690494168,
+        "stop" : 1606690494168,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on search button",
+      "time" : {
+        "start" : 1606690494168,
+        "stop" : 1606690494168,
+        "duration" : 0
+      },
+      "status" : "broken",
+      "statusMessage" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+      "statusTrace" : "  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/behave/runner.py\", line 590, in run_hook\n    self.hooks[name](context, *args)\n  File \"features/environment.py\", line 73, in after_step\n    allure.attach(context.driver.get_screenshot_as_png(),\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1064, in get_screenshot_as_png\n    return base64.b64decode(self.get_screenshot_as_base64().encode('ascii'))\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 1074, in get_screenshot_as_base64\n    return self.execute(Command.SCREENSHOT)['value']\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/webdriver.py\", line 321, in execute\n    self.error_handler.check_response(response)\n  File \"/opt/hostedtoolcache/Python/3.7.9/x64/lib/python3.7/site-packages/selenium/webdriver/remote/errorhandler.py\", line 242, in check_response\n    raise exception_class(message, screen, stacktrace)\n",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    }, {
+      "name" : "Then I see \"test automation is the use of\" on the page",
+      "time" : {
+        "start" : 1606690494168,
+        "stop" : 1606690494168,
+        "duration" : 0
+      },
+      "status" : "skipped",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 8,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "search"
+  }, {
+    "name" : "feature",
+    "value" : "5 Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 1,
+        "skipped" : 0,
+        "passed" : 1,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "d7719fd6ac9e205e",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/12//#testresult/d7719fd6ac9e205e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606690070587,
+          "stop" : 1606690084960,
+          "duration" : 14373
+        }
+      } ]
+    },
+    "tags" : [ "search", "regression" ]
+  },
+  "source" : "7e5d5fefa21a488c.json",
+  "parameterValues" : [ ]
+}

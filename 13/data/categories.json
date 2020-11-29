@@ -1,0 +1,130 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+      "children" : [ {
+        "name" : "Validate search",
+        "uid" : "68544f31db930695",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690369722,
+          "stop" : 1606690491115,
+          "duration" : 121393
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "2 Validate search",
+        "uid" : "9c4a9efab4ba1c87",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690370653,
+          "stop" : 1606690492035,
+          "duration" : 121382
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "7 Validate search",
+        "uid" : "2ddaef36f373f7bb",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690371280,
+          "stop" : 1606690490591,
+          "duration" : 119311
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "10 Validate search",
+        "uid" : "132d3fa096be4d20",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690371323,
+          "stop" : 1606690489053,
+          "duration" : 117730
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "9 Validate search",
+        "uid" : "14d1d5d3f4c97fd4",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690371762,
+          "stop" : 1606690490612,
+          "duration" : 118850
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "1 Validate search",
+        "uid" : "bbe8571e3da04dfc",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690372422,
+          "stop" : 1606690491787,
+          "duration" : 119365
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "6 Validate search",
+        "uid" : "8bd4cfbd7f13ae4c",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690372816,
+          "stop" : 1606690492830,
+          "duration" : 120014
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "5 Validate search",
+        "uid" : "7e5d5fefa21a488c",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690373489,
+          "stop" : 1606690494168,
+          "duration" : 120679
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "4 Validate search",
+        "uid" : "2c079b995955ca04",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690373964,
+          "stop" : 1606690492264,
+          "duration" : 118300
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "72adecaf3a294cb40acb37661538eb56"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
