@@ -23,3 +23,28 @@ Feature: 3 Main page
       | About Wikipedia | Wikipedia:About       |
       | Contact us      | Wikipedia:Contact us  |
       | Donate          | Donation amount       |
+      | Contents        | Wikipedia:Contents    |
+      | Current events  | Portal:Current events |
+      | About Wikipedia | Wikipedia:About       |
+      | Contact us      | Wikipedia:Contact us  |
+      | Donate          | Donation amount       |
+      | Contents        | Wikipedia:Contents    |
+      | Current events  | Portal:Current events |
+      | About Wikipedia | Wikipedia:About       |
+      | Contact us      | Wikipedia:Contact us  |
+      | Donate          | Donation amount       |
+      | Contents        | Wikipedia:Contents    |
+      | Current events  | Portal:Current events |
+      | About Wikipedia | Wikipedia:About       |
+      | Contact us      | Wikipedia:Contact us  |
+      | Donate          | Donation amount       |
+      | Contents        | Wikipedia:Contents    |
+      | Current events  | Portal:Current events |
+      | About Wikipedia | Wikipedia:About       |
+      | Contact us      | Wikipedia:Contact us  |
+      | Donate          | Donation amount       |
+      | Contents        | Wikipedia:Contents    |
+      | Current events  | Portal:Current events |
+      | About Wikipedia | Wikipedia:About       |
+      | Contact us      | Wikipedia:Contact us  |
+      | Donate          | Donation amount       |
