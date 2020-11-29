@@ -1,0 +1,3221 @@
+[ {
+  "uid" : "bf2d92edce4a1894",
+  "name" : "5 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692473683,
+    "stop" : 1606692475487,
+    "duration" : 1804
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "604e1242e46697a8",
+  "name" : "3 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692305439,
+    "stop" : 1606692307287,
+    "duration" : 1848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "848b931cb72651df",
+  "name" : "6 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692546797,
+    "stop" : 1606692548593,
+    "duration" : 1796
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "626b09449137a45",
+  "name" : "10 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692091003,
+    "stop" : 1606692092823,
+    "duration" : 1820
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad9e075dc07e96e1",
+  "name" : "9 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692864185,
+    "stop" : 1606692868454,
+    "duration" : 4269
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e01f6d6366d0736",
+  "name" : "7 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692632913,
+    "stop" : 1606692636314,
+    "duration" : 3401
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c798d6bef8d6ba7",
+  "name" : "2 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692179035,
+    "stop" : 1606692183772,
+    "duration" : 4737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7f5ed7695aa17283",
+  "name" : "8 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692787361,
+    "stop" : 1606692789102,
+    "duration" : 1741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "34783e1387ed3b5c",
+  "name" : "4 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692382333,
+    "stop" : 1606692384360,
+    "duration" : 2027
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "31faad48a56d3063",
+  "name" : "7 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692692753,
+    "stop" : 1606692695691,
+    "duration" : 2938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cb8f23e298bfa47",
+  "name" : "8 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692784138,
+    "stop" : 1606692787360,
+    "duration" : 3222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "229fdf5cb5006b2e",
+  "name" : "5 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692504215,
+    "stop" : 1606692506186,
+    "duration" : 1971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e522b40b9747417c",
+  "name" : "10 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692126755,
+    "stop" : 1606692129759,
+    "duration" : 3004
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8da9aaea5dc5992b",
+  "name" : "9 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692845281,
+    "stop" : 1606692847072,
+    "duration" : 1791
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3df3b160d727644",
+  "name" : "6 Validate search",
+  "time" : {
+    "start" : 1606692520361,
+    "stop" : 1606692523550,
+    "duration" : 3189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "11607b18a153b166",
+  "name" : "5 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692463059,
+    "stop" : 1606692465582,
+    "duration" : 2523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57f514d7e5b2f2cc",
+  "name" : "3 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692260872,
+    "stop" : 1606692262884,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c86dba01c93dc20c",
+  "name" : "3 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692250185,
+    "stop" : 1606692252568,
+    "duration" : 2383
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9ff68572c3c54491",
+  "name" : "7 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692655310,
+    "stop" : 1606692658002,
+    "duration" : 2692
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "37e6904fb83d860c",
+  "name" : "10 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692104351,
+    "stop" : 1606692106204,
+    "duration" : 1853
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e874905ddd0c6a8b",
+  "name" : "8 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692733451,
+    "stop" : 1606692736537,
+    "duration" : 3086
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "40f88fbd476cd9a4",
+  "name" : "8 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692717583,
+    "stop" : 1606692720129,
+    "duration" : 2546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26b8a79e58ca4aa8",
+  "name" : "3 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692321315,
+    "stop" : 1606692323192,
+    "duration" : 1877
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "747646c8b710a373",
+  "name" : "7 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692668475,
+    "stop" : 1606692670437,
+    "duration" : 1962
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35c36d43070cdbbe",
+  "name" : "9 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692818465,
+    "stop" : 1606692820215,
+    "duration" : 1750
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "467909c844c8431a",
+  "name" : "8 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692736538,
+    "stop" : 1606692741567,
+    "duration" : 5029
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef5852b91946727",
+  "name" : "6 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692529717,
+    "stop" : 1606692532717,
+    "duration" : 3000
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8094a22607cbd24d",
+  "name" : "2 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692216586,
+    "stop" : 1606692218549,
+    "duration" : 1963
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fec63920fd8176cd",
+  "name" : "4 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692369166,
+    "stop" : 1606692371847,
+    "duration" : 2681
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d860cd09a9ca4f1",
+  "name" : "1 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692065145,
+    "stop" : 1606692069673,
+    "duration" : 4528
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7503f3345ff4248b",
+  "name" : "1 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692048244,
+    "stop" : 1606692049866,
+    "duration" : 1622
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3566a2bcf2d87a62",
+  "name" : "8 Validate left menu -- @1.34 ",
+  "time" : {
+    "start" : 1606692801522,
+    "stop" : 1606692803218,
+    "duration" : 1696
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e185b485436b52b",
+  "name" : "7 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692642769,
+    "stop" : 1606692647661,
+    "duration" : 4892
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93c094b60106b465",
+  "name" : "10 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692079499,
+    "stop" : 1606692081497,
+    "duration" : 1998
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "89dbd5696dcb12b4",
+  "name" : "4 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692371848,
+    "stop" : 1606692377067,
+    "duration" : 5219
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4dafe45455802686",
+  "name" : "2 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692177240,
+    "stop" : 1606692179035,
+    "duration" : 1795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "22fb9d6864c4e2e7",
+  "name" : "5 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692455681,
+    "stop" : 1606692459240,
+    "duration" : 3559
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7070080cfb55f246",
+  "name" : "9 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692858424,
+    "stop" : 1606692860132,
+    "duration" : 1708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a62faacbae95b6a",
+  "name" : "2 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692211339,
+    "stop" : 1606692214606,
+    "duration" : 3267
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f205fff1aab74d60",
+  "name" : "10 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692092824,
+    "stop" : 1606692095458,
+    "duration" : 2634
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2ed5d0b575ae38c1",
+  "name" : "4 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692392013,
+    "stop" : 1606692395383,
+    "duration" : 3370
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9087ca2311472049",
+  "name" : "7 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692638241,
+    "stop" : 1606692640210,
+    "duration" : 1969
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a1b1c52f05ba2ac",
+  "name" : "9 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692822079,
+    "stop" : 1606692824436,
+    "duration" : 2357
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2e6b8b7f27fe70bb",
+  "name" : "1 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692052041,
+    "stop" : 1606692056243,
+    "duration" : 4202
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a8712fcdfeddda61",
+  "name" : "7 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692653216,
+    "stop" : 1606692655309,
+    "duration" : 2093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "450ca893eb282a7c",
+  "name" : "4 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692342262,
+    "stop" : 1606692347233,
+    "duration" : 4971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e388ad1b05736ff5",
+  "name" : "10 Validate left menu -- @1.32 ",
+  "time" : {
+    "start" : 1606692163175,
+    "stop" : 1606692167452,
+    "duration" : 4277
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2722b0d5bf795e15",
+  "name" : "1 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692074545,
+    "stop" : 1606692076298,
+    "duration" : 1753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4913d5c91deb43cb",
+  "name" : "2 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692221014,
+    "stop" : 1606692225594,
+    "duration" : 4580
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "531393ea86b513f2",
+  "name" : "3 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692271851,
+    "stop" : 1606692275065,
+    "duration" : 3214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "56d12cb48ae95490",
+  "name" : "10 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692121738,
+    "stop" : 1606692126754,
+    "duration" : 5016
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a93f174b8bc2f9c",
+  "name" : "7 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692627931,
+    "stop" : 1606692632912,
+    "duration" : 4981
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d80c32f787e281e",
+  "name" : "9 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692874958,
+    "stop" : 1606692877172,
+    "duration" : 2214
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79ea9ff3c0e2cec",
+  "name" : "7 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692621765,
+    "stop" : 1606692623554,
+    "duration" : 1789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fff7a25965368545",
+  "name" : "8 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692747062,
+    "stop" : 1606692748968,
+    "duration" : 1906
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f23a3243aab9f74e",
+  "name" : "5 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692443950,
+    "stop" : 1606692445893,
+    "duration" : 1943
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e225ff5724326a09",
+  "name" : "9 Validate left menu -- @1.35 ",
+  "time" : {
+    "start" : 1606692899559,
+    "stop" : 1606692901380,
+    "duration" : 1821
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80609cfa3772b2c2",
+  "name" : "7 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692658003,
+    "stop" : 1606692663522,
+    "duration" : 5519
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "318e7ef44f7f038d",
+  "name" : "9 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692835286,
+    "stop" : 1606692837663,
+    "duration" : 2377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44ec45b833c5c43d",
+  "name" : "6 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692552944,
+    "stop" : 1606692557230,
+    "duration" : 4286
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3bcfb904a26f62d5",
+  "name" : "6 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692563915,
+    "stop" : 1606692566398,
+    "duration" : 2483
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ae02abba6344c27",
+  "name" : "7 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692663523,
+    "stop" : 1606692666680,
+    "duration" : 3157
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a34c32a9a33f108e",
+  "name" : "5 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692445894,
+    "stop" : 1606692447831,
+    "duration" : 1937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7328a4589386ca29",
+  "name" : "1 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692030965,
+    "stop" : 1606692033838,
+    "duration" : 2873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e058324cdb0b3504",
+  "name" : "8 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692765859,
+    "stop" : 1606692770185,
+    "duration" : 4326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "223a279a2d13b80a",
+  "name" : "Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606691987645,
+    "stop" : 1606691992217,
+    "duration" : 4572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6729313574b90dc0",
+  "name" : "6 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692574150,
+    "stop" : 1606692575943,
+    "duration" : 1793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "142de092b8e2e765",
+  "name" : "9 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692831584,
+    "stop" : 1606692833432,
+    "duration" : 1848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96e986d43d74b3c5",
+  "name" : "1 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692026856,
+    "stop" : 1606692030964,
+    "duration" : 4108
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57df70dd45081ce5",
+  "name" : "10 Validate left menu -- @1.34 ",
+  "time" : {
+    "start" : 1606692170462,
+    "stop" : 1606692172247,
+    "duration" : 1785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e3faadda54414f4d",
+  "name" : "2 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692200546,
+    "stop" : 1606692202389,
+    "duration" : 1843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92f23464e4f26ee7",
+  "name" : "3 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692290309,
+    "stop" : 1606692292234,
+    "duration" : 1925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2593d9855945491",
+  "name" : "4 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692367133,
+    "stop" : 1606692369165,
+    "duration" : 2032
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a84f6e8eeaec0706",
+  "name" : "6 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692525487,
+    "stop" : 1606692529716,
+    "duration" : 4229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81bf7613a21afa39",
+  "name" : "4 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692365144,
+    "stop" : 1606692367133,
+    "duration" : 1989
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52fc68c1a41686b6",
+  "name" : "10 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692153890,
+    "stop" : 1606692156722,
+    "duration" : 2832
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a4b37855d82bc4ea",
+  "name" : "7 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692647662,
+    "stop" : 1606692651257,
+    "duration" : 3595
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "adae4a99f2e291c",
+  "name" : "2 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692190789,
+    "stop" : 1606692192950,
+    "duration" : 2161
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d24accc4b60da9b0",
+  "name" : "8 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692773178,
+    "stop" : 1606692774913,
+    "duration" : 1735
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "155dec0d0eabf639",
+  "name" : "9 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692848815,
+    "stop" : 1606692851182,
+    "duration" : 2367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2633c262c79ea24a",
+  "name" : "9 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692873168,
+    "stop" : 1606692874957,
+    "duration" : 1789
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4c1414a952543612",
+  "name" : "7 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692678105,
+    "stop" : 1606692681637,
+    "duration" : 3532
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "189a7c23eb548484",
+  "name" : "10 Validate search",
+  "time" : {
+    "start" : 1606692076309,
+    "stop" : 1606692079498,
+    "duration" : 3189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "944e8bd91d3b56d4",
+  "name" : "9 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692851183,
+    "stop" : 1606692855445,
+    "duration" : 4262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fbad97a52f2e5edf",
+  "name" : "6 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692588269,
+    "stop" : 1606692590091,
+    "duration" : 1822
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcbeb89850a7548e",
+  "name" : "1 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692033839,
+    "stop" : 1606692035521,
+    "duration" : 1682
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af3050cac4366473",
+  "name" : "4 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692414267,
+    "stop" : 1606692416725,
+    "duration" : 2458
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a44016ec33449a7",
+  "name" : "1 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692072868,
+    "stop" : 1606692074544,
+    "duration" : 1676
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "969210a75afd5871",
+  "name" : "3 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692275066,
+    "stop" : 1606692276934,
+    "duration" : 1868
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6d9ba3439378f9f1",
+  "name" : "1 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692014010,
+    "stop" : 1606692018331,
+    "duration" : 4321
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "770a5ac8eb033243",
+  "name" : "10 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692158597,
+    "stop" : 1606692160626,
+    "duration" : 2029
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ccec53f8128a8cc",
+  "name" : "6 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692594423,
+    "stop" : 1606692599195,
+    "duration" : 4772
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50a2788c6877599",
+  "name" : "6 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692575944,
+    "stop" : 1606692577739,
+    "duration" : 1795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19f7e9104f86e608",
+  "name" : "6 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692604845,
+    "stop" : 1606692607109,
+    "duration" : 2264
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8dd98b0b90780689",
+  "name" : "10 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692156723,
+    "stop" : 1606692158596,
+    "duration" : 1873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed0eb4ba77190cc0",
+  "name" : "2 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692187176,
+    "stop" : 1606692188918,
+    "duration" : 1742
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8978588de60000d8",
+  "name" : "8 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692770186,
+    "stop" : 1606692773177,
+    "duration" : 2991
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8a4c7826be56744b",
+  "name" : "4 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692361730,
+    "stop" : 1606692365142,
+    "duration" : 3412
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1fe7f3085ce4a3a4",
+  "name" : "8 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692703230,
+    "stop" : 1606692705294,
+    "duration" : 2064
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "299778cc976d67d0",
+  "name" : "2 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692239088,
+    "stop" : 1606692242032,
+    "duration" : 2944
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88d969823c29483a",
+  "name" : "7 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692695692,
+    "stop" : 1606692697548,
+    "duration" : 1856
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "498678efc18d4e09",
+  "name" : "9 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692861982,
+    "stop" : 1606692864183,
+    "duration" : 2201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cadaeb1af39a8e3f",
+  "name" : "3 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692252569,
+    "stop" : 1606692257122,
+    "duration" : 4553
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1b722566421e966",
+  "name" : "6 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692590091,
+    "stop" : 1606692591981,
+    "duration" : 1890
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55e2cf6f90e4a20f",
+  "name" : "7 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692625449,
+    "stop" : 1606692627929,
+    "duration" : 2480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "add9267b4ffe83cc",
+  "name" : "1 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692021100,
+    "stop" : 1606692022745,
+    "duration" : 1645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a672a017113ee52",
+  "name" : "4 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692410470,
+    "stop" : 1606692412279,
+    "duration" : 1809
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8074d7761ad956a",
+  "name" : "9 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692833433,
+    "stop" : 1606692835285,
+    "duration" : 1852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb2faf9df88541a3",
+  "name" : "10 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692099554,
+    "stop" : 1606692102563,
+    "duration" : 3009
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27a6d14b4016602d",
+  "name" : "Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606691985340,
+    "stop" : 1606691987644,
+    "duration" : 2304
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "186411e5053f0d58",
+  "name" : "4 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692425336,
+    "stop" : 1606692427229,
+    "duration" : 1893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "52aeb3b85bc592a6",
+  "name" : "5 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692432841,
+    "stop" : 1606692435275,
+    "duration" : 2434
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c4d5eff7740e057",
+  "name" : "Validate search",
+  "time" : {
+    "start" : 1606691981921,
+    "stop" : 1606691985339,
+    "duration" : 3418
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8394fc535bcef63a",
+  "name" : "9 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692820216,
+    "stop" : 1606692822078,
+    "duration" : 1862
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80fb6cf6428d8a08",
+  "name" : "6 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692532718,
+    "stop" : 1606692534538,
+    "duration" : 1820
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b51a816a5d1ce0e2",
+  "name" : "3 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692330011,
+    "stop" : 1606692332971,
+    "duration" : 2960
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1abffc9f3f887bae",
+  "name" : "6 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692548594,
+    "stop" : 1606692550495,
+    "duration" : 1901
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23db5ad6f733bd6b",
+  "name" : "9 Validate left menu -- @1.32 ",
+  "time" : {
+    "start" : 1606692890334,
+    "stop" : 1606692894590,
+    "duration" : 4256
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b12ada248041be2f",
+  "name" : "10 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692145115,
+    "stop" : 1606692146989,
+    "duration" : 1874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d8fc136b9725c35",
+  "name" : "7 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692687985,
+    "stop" : 1606692692752,
+    "duration" : 4767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c2fbce93544cdf8c",
+  "name" : "1 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692011754,
+    "stop" : 1606692014009,
+    "duration" : 2255
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a035278dccaf8f8",
+  "name" : "2 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692204288,
+    "stop" : 1606692206873,
+    "duration" : 2585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2793673b2a539d98",
+  "name" : "9 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692824437,
+    "stop" : 1606692828628,
+    "duration" : 4191
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ca4adaa6215075fd",
+  "name" : "1 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692035522,
+    "stop" : 1606692037309,
+    "duration" : 1787
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7ccabea3c5a7a40",
+  "name" : "2 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692230610,
+    "stop" : 1606692232449,
+    "duration" : 1839
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d07a7385d8710a42",
+  "name" : "9 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692828629,
+    "stop" : 1606692831583,
+    "duration" : 2954
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9288d5cc43d323c3",
+  "name" : "Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606691995382,
+    "stop" : 1606691997120,
+    "duration" : 1738
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ff38613b71f89cd9",
+  "name" : "9 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692815308,
+    "stop" : 1606692818463,
+    "duration" : 3155
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66d59e0d438c058e",
+  "name" : "7 Validate search",
+  "time" : {
+    "start" : 1606692607120,
+    "stop" : 1606692610626,
+    "duration" : 3506
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fe5bd4f81a48f9",
+  "name" : "6 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692536451,
+    "stop" : 1606692538731,
+    "duration" : 2280
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5e1ccb1cc98878c",
+  "name" : "8 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692729595,
+    "stop" : 1606692731541,
+    "duration" : 1946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "259112b8fec54868",
+  "name" : "Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606691992218,
+    "stop" : 1606691995381,
+    "duration" : 3163
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a272511fcf9942d",
+  "name" : "8 Validate left menu -- @1.35 ",
+  "time" : {
+    "start" : 1606692803219,
+    "stop" : 1606692805053,
+    "duration" : 1834
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bb31f27327d97a32",
+  "name" : "8 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692759680,
+    "stop" : 1606692761662,
+    "duration" : 1982
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aa802b6bf315e473",
+  "name" : "10 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692115785,
+    "stop" : 1606692117442,
+    "duration" : 1657
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "acf3ad6f5c7d0da0",
+  "name" : "10 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692095459,
+    "stop" : 1606692099552,
+    "duration" : 4093
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "54dd62657f49cbbd",
+  "name" : "6 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692534538,
+    "stop" : 1606692536450,
+    "duration" : 1912
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2726a3e709ceae90",
+  "name" : "10 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692106204,
+    "stop" : 1606692108452,
+    "duration" : 2248
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c83166efcd1db066",
+  "name" : "5 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692488894,
+    "stop" : 1606692490716,
+    "duration" : 1822
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85722165a7294f3a",
+  "name" : "3 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692276935,
+    "stop" : 1606692278840,
+    "duration" : 1905
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b597654d834d2869",
+  "name" : "8 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692776753,
+    "stop" : 1606692779067,
+    "duration" : 2314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b7fadca11c7a5d19",
+  "name" : "8 Validate search",
+  "time" : {
+    "start" : 1606692699581,
+    "stop" : 1606692703229,
+    "duration" : 3648
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be4775474b9f6959",
+  "name" : "4 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692421675,
+    "stop" : 1606692425335,
+    "duration" : 3660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6f932b871c9c4e95",
+  "name" : "8 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692756341,
+    "stop" : 1606692759679,
+    "duration" : 3338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8b1c2c771a81800",
+  "name" : "4 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692350646,
+    "stop" : 1606692352324,
+    "duration" : 1678
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c367765a2a364970",
+  "name" : "3 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692262885,
+    "stop" : 1606692264761,
+    "duration" : 1876
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b4c7015927113a3",
+  "name" : "5 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692499445,
+    "stop" : 1606692502457,
+    "duration" : 3012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "45d391a90b99699d",
+  "name" : "8 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692710385,
+    "stop" : 1606692713774,
+    "duration" : 3389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ef7f2b5074993797",
+  "name" : "9 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692860133,
+    "stop" : 1606692861981,
+    "duration" : 1848
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "69bfacb0561df317",
+  "name" : "6 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692566399,
+    "stop" : 1606692571028,
+    "duration" : 4629
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24e7ee7d94fc4dd9",
+  "name" : "7 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692640211,
+    "stop" : 1606692642768,
+    "duration" : 2557
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "315a0aafb2d233be",
+  "name" : "8 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692720130,
+    "stop" : 1606692726015,
+    "duration" : 5885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e763c23a68501d2a",
+  "name" : "3 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692309289,
+    "stop" : 1606692311746,
+    "duration" : 2457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e266237c20729fd0",
+  "name" : "3 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692323193,
+    "stop" : 1606692325491,
+    "duration" : 2298
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "412f01317761a893",
+  "name" : "9 Validate left menu -- @1.31 ",
+  "time" : {
+    "start" : 1606692888174,
+    "stop" : 1606692890333,
+    "duration" : 2159
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0aad0484ce5e9aa",
+  "name" : "5 Validate search",
+  "time" : {
+    "start" : 1606692429151,
+    "stop" : 1606692432840,
+    "duration" : 3689
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2972f7bef780f93f",
+  "name" : "6 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692557231,
+    "stop" : 1606692560219,
+    "duration" : 2988
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a9c338a4a0a8d23",
+  "name" : "6 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692602702,
+    "stop" : 1606692604844,
+    "duration" : 2142
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8e4023695105fb29",
+  "name" : "6 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692523551,
+    "stop" : 1606692525486,
+    "duration" : 1935
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f0cd1b8970d7d809",
+  "name" : "8 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692731542,
+    "stop" : 1606692733450,
+    "duration" : 1908
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e94496d9e1f9c4c8",
+  "name" : "3 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692334816,
+    "stop" : 1606692336893,
+    "duration" : 2077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1616515791fe57dc",
+  "name" : "3 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692311747,
+    "stop" : 1606692316319,
+    "duration" : 4572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f035509e189e71f2",
+  "name" : "3 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692281495,
+    "stop" : 1606692286682,
+    "duration" : 5187
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f1877cade8d19ab",
+  "name" : "7 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692618505,
+    "stop" : 1606692621764,
+    "duration" : 3259
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c3c1b97a8c15e4d5",
+  "name" : "7 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692697549,
+    "stop" : 1606692699569,
+    "duration" : 2020
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7dcbe5469a22b78",
+  "name" : "6 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692538732,
+    "stop" : 1606692543485,
+    "duration" : 4753
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d69d8ff19f961cdf",
+  "name" : "1 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692056244,
+    "stop" : 1606692059161,
+    "duration" : 2917
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8d5a48577dc041cb",
+  "name" : "5 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692461006,
+    "stop" : 1606692463058,
+    "duration" : 2052
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d21a47127f16487e",
+  "name" : "3 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692319543,
+    "stop" : 1606692321314,
+    "duration" : 1771
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c0accf8a244f22f8",
+  "name" : "10 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692149529,
+    "stop" : 1606692153889,
+    "duration" : 4360
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7fa1abdbbc458a76",
+  "name" : "5 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692480223,
+    "stop" : 1606692485662,
+    "duration" : 5439
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57c5a58fb10f4e3c",
+  "name" : "5 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692450415,
+    "stop" : 1606692455680,
+    "duration" : 5265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "97fd29ca6f11f8e4",
+  "name" : "10 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692102564,
+    "stop" : 1606692104350,
+    "duration" : 1786
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a64368291cf3dc95",
+  "name" : "8 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692713775,
+    "stop" : 1606692715582,
+    "duration" : 1807
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2312ed801449b04b",
+  "name" : "5 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692459241,
+    "stop" : 1606692461005,
+    "duration" : 1764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e8eb2d2e1c76254",
+  "name" : "3 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692294213,
+    "stop" : 1606692296750,
+    "duration" : 2537
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19e356cbf30f9644",
+  "name" : "5 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692485663,
+    "stop" : 1606692488894,
+    "duration" : 3231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b41dc1e2e99a893",
+  "name" : "2 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692206874,
+    "stop" : 1606692211338,
+    "duration" : 4464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "92de98b1b35978d",
+  "name" : "8 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692761663,
+    "stop" : 1606692763556,
+    "duration" : 1893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2228007e5ab39ba0",
+  "name" : "1 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692039417,
+    "stop" : 1606692043716,
+    "duration" : 4299
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "88b22d13dc972c9f",
+  "name" : "1 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692046603,
+    "stop" : 1606692048243,
+    "duration" : 1640
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5a86453f2a1d0cf",
+  "name" : "4 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692397281,
+    "stop" : 1606692399293,
+    "duration" : 2012
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "10c873e5f3de7a04",
+  "name" : "3 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692286684,
+    "stop" : 1606692290309,
+    "duration" : 3625
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "76837cfeb4d1e067",
+  "name" : "8 Validate left menu -- @1.31 ",
+  "time" : {
+    "start" : 1606692791159,
+    "stop" : 1606692793517,
+    "duration" : 2358
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2bb3b5de93a99561",
+  "name" : "9 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692808421,
+    "stop" : 1606692810570,
+    "duration" : 2149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f0032f5215df69a",
+  "name" : "1 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692049867,
+    "stop" : 1606692052040,
+    "duration" : 2173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2d2b20ee22b450a9",
+  "name" : "5 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692490717,
+    "stop" : 1606692492654,
+    "duration" : 1937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7299e515479ba63",
+  "name" : "10 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692140339,
+    "stop" : 1606692143362,
+    "duration" : 3023
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "374e7f509e95fef9",
+  "name" : "6 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692580135,
+    "stop" : 1606692584810,
+    "duration" : 4675
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3118f7ae97bf8bde",
+  "name" : "2 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692232450,
+    "stop" : 1606692234764,
+    "duration" : 2314
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ed9e8c3c82a54be4",
+  "name" : "1 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692062793,
+    "stop" : 1606692065144,
+    "duration" : 2351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4ce4d746c2d58964",
+  "name" : "8 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692745158,
+    "stop" : 1606692747062,
+    "duration" : 1904
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "744d0715999b978d",
+  "name" : "2 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692188919,
+    "stop" : 1606692190788,
+    "duration" : 1869
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ab7933a210dcce1",
+  "name" : "7 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692651258,
+    "stop" : 1606692653215,
+    "duration" : 1957
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "171e33af2da28775",
+  "name" : "10 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692081498,
+    "stop" : 1606692085811,
+    "duration" : 4313
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "733f0cd8b786f9f2",
+  "name" : "10 Validate left menu -- @1.31 ",
+  "time" : {
+    "start" : 1606692160627,
+    "stop" : 1606692163174,
+    "duration" : 2547
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a50db5d84c498379",
+  "name" : "2 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692234766,
+    "stop" : 1606692239086,
+    "duration" : 4320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2df1d042cfee23b0",
+  "name" : "4 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692340291,
+    "stop" : 1606692342261,
+    "duration" : 1970
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "79e8d8a7c53fd236",
+  "name" : "1 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692059162,
+    "stop" : 1606692060856,
+    "duration" : 1694
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5d62a1eeb661629",
+  "name" : "10 Validate left menu -- @1.33 ",
+  "time" : {
+    "start" : 1606692167453,
+    "stop" : 1606692170460,
+    "duration" : 3007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6a2020ade3d74d31",
+  "name" : "3 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692332972,
+    "stop" : 1606692334815,
+    "duration" : 1843
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fdfcee586d4c8e6",
+  "name" : "1 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692060857,
+    "stop" : 1606692062793,
+    "duration" : 1936
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e8264144b8b12bd8",
+  "name" : "8 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692774914,
+    "stop" : 1606692776752,
+    "duration" : 1838
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "583244e93bf6316c",
+  "name" : "5 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692513420,
+    "stop" : 1606692516712,
+    "duration" : 3292
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f9abb82b7b2d8ed6",
+  "name" : "7 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692673097,
+    "stop" : 1606692678104,
+    "duration" : 5007
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "856fcd10bd57df1b",
+  "name" : "2 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692242033,
+    "stop" : 1606692244120,
+    "duration" : 2087
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1f11fc4b40b6d5eb",
+  "name" : "4 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692347234,
+    "stop" : 1606692350645,
+    "duration" : 3411
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "992f29ff579740f0",
+  "name" : "4 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692386839,
+    "stop" : 1606692392012,
+    "duration" : 5173
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dd83cf869935932b",
+  "name" : "4 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692416727,
+    "stop" : 1606692421673,
+    "duration" : 4946
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d6cd33e820f3fd1a",
+  "name" : "5 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692435276,
+    "stop" : 1606692440224,
+    "duration" : 4948
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d8604a6f105c7de",
+  "name" : "1 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692022746,
+    "stop" : 1606692024534,
+    "duration" : 1788
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3b858db3fbea7c7",
+  "name" : "7 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692613127,
+    "stop" : 1606692618504,
+    "duration" : 5377
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a530b3f0e305365f",
+  "name" : "5 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692470451,
+    "stop" : 1606692473682,
+    "duration" : 3231
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "226c6f39b57567b0",
+  "name" : "4 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692380364,
+    "stop" : 1606692382332,
+    "duration" : 1968
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "be0c413d2c5e4bcb",
+  "name" : "5 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692494980,
+    "stop" : 1606692499444,
+    "duration" : 4464
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf73a7df2e295ca2",
+  "name" : "Invalid login - data table",
+  "time" : {
+    "start" : 1606691998974,
+    "stop" : 1606692008406,
+    "duration" : 9432
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e61c33afa7c367ec",
+  "name" : "9 Validate search",
+  "time" : {
+    "start" : 1606692805063,
+    "stop" : 1606692808419,
+    "duration" : 3356
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2a87059a7a517606",
+  "name" : "2 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692192951,
+    "stop" : 1606692197277,
+    "duration" : 4326
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "85dd05074a42f42f",
+  "name" : "8 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692705295,
+    "stop" : 1606692710384,
+    "duration" : 5089
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ebb99a1f66eb2fd4",
+  "name" : "6 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692571029,
+    "stop" : 1606692574149,
+    "duration" : 3120
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c0f49d16a33a92e",
+  "name" : "6 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692584811,
+    "stop" : 1606692588268,
+    "duration" : 3457
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7946feb48a118701",
+  "name" : "5 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692516713,
+    "stop" : 1606692518557,
+    "duration" : 1844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7a7c749a8be2b93",
+  "name" : "7 Validate left menu -- @1.1 ",
+  "time" : {
+    "start" : 1606692610627,
+    "stop" : 1606692613127,
+    "duration" : 2500
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2f63a63cb08c0a40",
+  "name" : "5 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692502458,
+    "stop" : 1606692504214,
+    "duration" : 1756
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6c1a668591964140",
+  "name" : "9 Validate left menu -- @1.29 ",
+  "time" : {
+    "start" : 1606692884638,
+    "stop" : 1606692886348,
+    "duration" : 1710
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35ff203a07491f29",
+  "name" : "3 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692307288,
+    "stop" : 1606692309288,
+    "duration" : 2000
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4196cb1877f1e6f7",
+  "name" : "5 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692477362,
+    "stop" : 1606692480222,
+    "duration" : 2860
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3fc26d5a85f44bc",
+  "name" : "9 Validate left menu -- @1.2 ",
+  "time" : {
+    "start" : 1606692810571,
+    "stop" : 1606692815307,
+    "duration" : 4736
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f8dbb2396a6ab03c",
+  "name" : "4 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692402015,
+    "stop" : 1606692406999,
+    "duration" : 4984
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abb5cdc694640b59",
+  "name" : "3 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692301724,
+    "stop" : 1606692305438,
+    "duration" : 3714
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23db79342d98738b",
+  "name" : "1 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692043717,
+    "stop" : 1606692046602,
+    "duration" : 2885
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af416a722fc4399",
+  "name" : "10 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692112813,
+    "stop" : 1606692115784,
+    "duration" : 2971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "64ca2d5e880b3fa5",
+  "name" : "1 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692037310,
+    "stop" : 1606692039415,
+    "duration" : 2105
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7af80ac82e06cd6",
+  "name" : "5 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692518558,
+    "stop" : 1606692520353,
+    "duration" : 1795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4202ad00fb459b62",
+  "name" : "6 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692577740,
+    "stop" : 1606692580134,
+    "duration" : 2394
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "90e405c793e99e56",
+  "name" : "2 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692183773,
+    "stop" : 1606692187175,
+    "duration" : 3402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a15f666141a6751",
+  "name" : "4 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692407000,
+    "stop" : 1606692410469,
+    "duration" : 3469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55292a53e158477c",
+  "name" : "2 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692197278,
+    "stop" : 1606692200545,
+    "duration" : 3267
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7dbf8f7253065819",
+  "name" : "10 Validate left menu -- @1.20 ",
+  "time" : {
+    "start" : 1606692131640,
+    "stop" : 1606692133462,
+    "duration" : 1822
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f8b4f80bf553e53",
+  "name" : "9 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692877173,
+    "stop" : 1606692881642,
+    "duration" : 4469
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "586ba82f969eb557",
+  "name" : "9 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692842126,
+    "stop" : 1606692845280,
+    "duration" : 3154
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f7223dd602a6fc0",
+  "name" : "2 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692228846,
+    "stop" : 1606692230609,
+    "duration" : 1763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7092a6203ac0ee45",
+  "name" : "8 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692789103,
+    "stop" : 1606692791158,
+    "duration" : 2055
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "542dcb08702b2da3",
+  "name" : "9 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692868455,
+    "stop" : 1606692871512,
+    "duration" : 3057
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e78c6e56f4f8185",
+  "name" : "4 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692356710,
+    "stop" : 1606692361729,
+    "duration" : 5019
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a262526d70370b7c",
+  "name" : "3 Validate search",
+  "time" : {
+    "start" : 1606692246458,
+    "stop" : 1606692250184,
+    "duration" : 3726
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "43628b989f0a2288",
+  "name" : "10 Validate left menu -- @1.4 ",
+  "time" : {
+    "start" : 1606692089275,
+    "stop" : 1606692091002,
+    "duration" : 1727
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d7a5751034671561",
+  "name" : "5 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692440225,
+    "stop" : 1606692443949,
+    "duration" : 3724
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c308ca524848b107",
+  "name" : "9 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692881643,
+    "stop" : 1606692884637,
+    "duration" : 2994
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f95868929c9ddd6f",
+  "name" : "2 Validate search",
+  "time" : {
+    "start" : 1606692174107,
+    "stop" : 1606692177239,
+    "duration" : 3132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4f0991dd96f9e41b",
+  "name" : "2 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692225595,
+    "stop" : 1606692228845,
+    "duration" : 3250
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b13c47cb32bccff2",
+  "name" : "3 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692316320,
+    "stop" : 1606692319542,
+    "duration" : 3222
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25a4c46db7c971f7",
+  "name" : "1 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692024535,
+    "stop" : 1606692026855,
+    "duration" : 2320
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "24048de3ed7690ac",
+  "name" : "3 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692296752,
+    "stop" : 1606692301718,
+    "duration" : 4966
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5c45eda23e928a62",
+  "name" : "10 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692143363,
+    "stop" : 1606692145114,
+    "duration" : 1751
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1f358031c10065e",
+  "name" : "7 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692670438,
+    "stop" : 1606692673096,
+    "duration" : 2658
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b820d26a03dbc443",
+  "name" : "7 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692623555,
+    "stop" : 1606692625448,
+    "duration" : 1893
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84bae4cb06504b92",
+  "name" : "4 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692412280,
+    "stop" : 1606692414266,
+    "duration" : 1986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "67b60d1701badcb9",
+  "name" : "Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606691997121,
+    "stop" : 1606691998973,
+    "duration" : 1852
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cdef30229b4d0334",
+  "name" : "8 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692748969,
+    "stop" : 1606692751402,
+    "duration" : 2433
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c8efc322d3e62f",
+  "name" : "6 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692543485,
+    "stop" : 1606692546796,
+    "duration" : 3311
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "202eee44b862f5ee",
+  "name" : "6 Validate left menu -- @1.28 ",
+  "time" : {
+    "start" : 1606692599196,
+    "stop" : 1606692602701,
+    "duration" : 3505
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a80e5730f48826d1",
+  "name" : "2 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692214607,
+    "stop" : 1606692216585,
+    "duration" : 1978
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ae9c0ab8a4594588",
+  "name" : "3 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692278842,
+    "stop" : 1606692281493,
+    "duration" : 2651
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "840f00d2e636888f",
+  "name" : "3 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692325492,
+    "stop" : 1606692330010,
+    "duration" : 4518
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2c03815ad45b309",
+  "name" : "9 Validate left menu -- @1.34 ",
+  "time" : {
+    "start" : 1606692897838,
+    "stop" : 1606692899558,
+    "duration" : 1720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "950986b0883d0127",
+  "name" : "10 Validate left menu -- @1.22 ",
+  "time" : {
+    "start" : 1606692135693,
+    "stop" : 1606692140338,
+    "duration" : 4645
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3a14047aaf9abfa7",
+  "name" : "5 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692465583,
+    "stop" : 1606692470450,
+    "duration" : 4867
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9b2c3c78598e7f3e",
+  "name" : "7 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692666681,
+    "stop" : 1606692668474,
+    "duration" : 1793
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e194efa1821a134",
+  "name" : "2 Validate left menu -- @1.10 ",
+  "time" : {
+    "start" : 1606692202391,
+    "stop" : 1606692204287,
+    "duration" : 1896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5195c9c6659df560",
+  "name" : "8 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692763557,
+    "stop" : 1606692765858,
+    "duration" : 2301
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "80c5136983454a9a",
+  "name" : "3 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692257123,
+    "stop" : 1606692260871,
+    "duration" : 3748
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "133a79ce2781a25a",
+  "name" : "10 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692146990,
+    "stop" : 1606692149528,
+    "duration" : 2538
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57effdc42df09cc9",
+  "name" : "9 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692837664,
+    "stop" : 1606692842125,
+    "duration" : 4461
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "720dcb00ce938e8a",
+  "name" : "4 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692427230,
+    "stop" : 1606692429140,
+    "duration" : 1910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c809f0073d7eb32",
+  "name" : "3 Validate left menu -- @1.7 ",
+  "time" : {
+    "start" : 1606692267201,
+    "stop" : 1606692271850,
+    "duration" : 4649
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dcb43eb007b8286b",
+  "name" : "4 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692352325,
+    "stop" : 1606692354135,
+    "duration" : 1810
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "878f99008b5af93f",
+  "name" : "4 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692354136,
+    "stop" : 1606692356709,
+    "duration" : 2573
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "549417ba0df0eebc",
+  "name" : "7 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692683648,
+    "stop" : 1606692685641,
+    "duration" : 1993
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c6dd6a3f00ae3c98",
+  "name" : "5 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692506187,
+    "stop" : 1606692508654,
+    "duration" : 2467
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62d6437bb82559f",
+  "name" : "8 Validate left menu -- @1.5 ",
+  "time" : {
+    "start" : 1606692715583,
+    "stop" : 1606692717582,
+    "duration" : 1999
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad7f9b301030f364",
+  "name" : "5 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692447832,
+    "stop" : 1606692450414,
+    "duration" : 2582
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "228f4c2ae5a9d423",
+  "name" : "7 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692685642,
+    "stop" : 1606692687984,
+    "duration" : 2342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cb17d0087defe35",
+  "name" : "9 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692847073,
+    "stop" : 1606692848814,
+    "duration" : 1741
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5e72bd0ef1ea3b5",
+  "name" : "10 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692133463,
+    "stop" : 1606692135692,
+    "duration" : 2229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a1919fb705de0047",
+  "name" : "1 Validate left menu -- @1.23 ",
+  "time" : {
+    "start" : 1606692069673,
+    "stop" : 1606692072866,
+    "duration" : 3193
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5411722a4805f986",
+  "name" : "4 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692377068,
+    "stop" : 1606692380363,
+    "duration" : 3295
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5adfd136163b8af0",
+  "name" : "8 Validate left menu -- @1.17 ",
+  "time" : {
+    "start" : 1606692751403,
+    "stop" : 1606692756341,
+    "duration" : 4938
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e5a51f0b4e5c8a",
+  "name" : "9 Validate left menu -- @1.30 ",
+  "time" : {
+    "start" : 1606692886349,
+    "stop" : 1606692888173,
+    "duration" : 1824
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "71042370e0dad2b1",
+  "name" : "8 Validate left menu -- @1.8 ",
+  "time" : {
+    "start" : 1606692726015,
+    "stop" : 1606692729594,
+    "duration" : 3579
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "46fd92c8519dca88",
+  "name" : "6 Validate left menu -- @1.14 ",
+  "time" : {
+    "start" : 1606692560221,
+    "stop" : 1606692562039,
+    "duration" : 1818
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1ed005aed151e19c",
+  "name" : "8 Validate left menu -- @1.32 ",
+  "time" : {
+    "start" : 1606692793518,
+    "stop" : 1606692798103,
+    "duration" : 4585
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9106951d99c8bcb9",
+  "name" : "10 Validate left menu -- @1.35 ",
+  "time" : {
+    "start" : 1606692172248,
+    "stop" : 1606692174098,
+    "duration" : 1850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f3f18d7aa8b20116",
+  "name" : "7 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692681638,
+    "stop" : 1606692683646,
+    "duration" : 2008
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "28d4a6a10c22cc6a",
+  "name" : "6 Validate left menu -- @1.26 ",
+  "time" : {
+    "start" : 1606692591981,
+    "stop" : 1606692594422,
+    "duration" : 2441
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb59605854d1322",
+  "name" : "10 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692117443,
+    "stop" : 1606692119322,
+    "duration" : 1879
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7c9ed54c60bb0ec",
+  "name" : "4 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692395384,
+    "stop" : 1606692397280,
+    "duration" : 1896
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a58c3ca34b78cbdc",
+  "name" : "10 Validate left menu -- @1.19 ",
+  "time" : {
+    "start" : 1606692129760,
+    "stop" : 1606692131638,
+    "duration" : 1878
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b4f424364c15d07",
+  "name" : "6 Validate left menu -- @1.11 ",
+  "time" : {
+    "start" : 1606692550496,
+    "stop" : 1606692552943,
+    "duration" : 2447
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8c0bd5ff8ac9fc0",
+  "name" : "4 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692399294,
+    "stop" : 1606692402014,
+    "duration" : 2720
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "345898b637039eb0",
+  "name" : "10 Validate left menu -- @1.12 ",
+  "time" : {
+    "start" : 1606692108453,
+    "stop" : 1606692112812,
+    "duration" : 4359
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c7a2e33565a39b78",
+  "name" : "9 Validate left menu -- @1.24 ",
+  "time" : {
+    "start" : 1606692871513,
+    "stop" : 1606692873167,
+    "duration" : 1654
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "429cf1a5a3138769",
+  "name" : "5 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692508655,
+    "stop" : 1606692513419,
+    "duration" : 4764
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1624513760d7de6",
+  "name" : "8 Validate left menu -- @1.27 ",
+  "time" : {
+    "start" : 1606692779068,
+    "stop" : 1606692784137,
+    "duration" : 5069
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e63d06ae173585e5",
+  "name" : "2 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692218550,
+    "stop" : 1606692221013,
+    "duration" : 2463
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ec897a67447a8e9b",
+  "name" : "10 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692085812,
+    "stop" : 1606692089274,
+    "duration" : 3462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a3d61ce7b65222a4",
+  "name" : "3 Validate left menu -- @1.6 ",
+  "time" : {
+    "start" : 1606692264763,
+    "stop" : 1606692267200,
+    "duration" : 2437
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3b03cd12a14df45b",
+  "name" : "1 Validate left menu -- @1.3 ",
+  "time" : {
+    "start" : 1606692018332,
+    "stop" : 1606692021099,
+    "duration" : 2767
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5feaf0588494f58b",
+  "name" : "9 Validate left menu -- @1.33 ",
+  "time" : {
+    "start" : 1606692894591,
+    "stop" : 1606692897837,
+    "duration" : 3246
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b8d1a769feff1e3",
+  "name" : "4 Validate search",
+  "time" : {
+    "start" : 1606692336900,
+    "stop" : 1606692340290,
+    "duration" : 3390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "959abcdf54c37d09",
+  "name" : "7 Validate left menu -- @1.9 ",
+  "time" : {
+    "start" : 1606692636315,
+    "stop" : 1606692638240,
+    "duration" : 1925
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "998140a789406e80",
+  "name" : "8 Validate left menu -- @1.13 ",
+  "time" : {
+    "start" : 1606692741568,
+    "stop" : 1606692745157,
+    "duration" : 3589
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "185526a1fd5290b5",
+  "name" : "10 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692119323,
+    "stop" : 1606692121737,
+    "duration" : 2414
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "26a53bc58cfd7987",
+  "name" : "5 Validate left menu -- @1.21 ",
+  "time" : {
+    "start" : 1606692492655,
+    "stop" : 1606692494979,
+    "duration" : 2324
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "25c002578cd114d3",
+  "name" : "5 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692475488,
+    "stop" : 1606692477361,
+    "duration" : 1873
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1a685bc7bd3e996f",
+  "name" : "2 Validate left menu -- @1.25 ",
+  "time" : {
+    "start" : 1606692244121,
+    "stop" : 1606692246449,
+    "duration" : 2328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d786e9622b77a0c8",
+  "name" : "8 Validate left menu -- @1.33 ",
+  "time" : {
+    "start" : 1606692798104,
+    "stop" : 1606692801521,
+    "duration" : 3417
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9a10385f50cdeb32",
+  "name" : "6 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692562040,
+    "stop" : 1606692563914,
+    "duration" : 1874
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e7db1c33318ca909",
+  "name" : "3 Validate left menu -- @1.15 ",
+  "time" : {
+    "start" : 1606692292236,
+    "stop" : 1606692294212,
+    "duration" : 1976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cf01e03283533f27",
+  "name" : "4 Validate left menu -- @1.16 ",
+  "time" : {
+    "start" : 1606692384361,
+    "stop" : 1606692386838,
+    "duration" : 2477
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f132ef0edc2265d6",
+  "name" : "1 Validate search",
+  "time" : {
+    "start" : 1606692008415,
+    "stop" : 1606692011753,
+    "duration" : 3338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8722d5167852499",
+  "name" : "9 Validate left menu -- @1.18 ",
+  "time" : {
+    "start" : 1606692855447,
+    "stop" : 1606692858423,
+    "duration" : 2976
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
