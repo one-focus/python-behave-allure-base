@@ -16,8 +16,13 @@ def before_all(context):
                 'enableVNC': True,
                 'enableVideo': True
             },
-
-        '''
+        # -- Chrome browser mobile emulation and headless options
+        'goog:chromeOptions': {
+            # 'mobileEmulation': {'deviceName': 'iPhone X'},
+            'args': ['headless']
+        }
+    }
+    '''
         -- Android browser Selenoid options
         "browserName": "android",
         "version": "9.0",
@@ -25,7 +30,7 @@ def before_all(context):
             'enableVNC': True,
             'enableVideo': True
         }
-
+    
         -- Android native app Selenoid options
         'deviceName': 'android',  # not browserName
         'version': '9.0',
@@ -36,15 +41,7 @@ def before_all(context):
             'enableVNC': True,
             'enableVideo': False
         }
-        '''
-        
-        # -- Chrome browser mobile emulation and headless options
-        'goog:chromeOptions': {
-            # 'mobileEmulation': {'deviceName': 'iPhone X'},
-            'args': ['headless']
-        }
-
-    }
+    '''
 
     # -- Local driver
     # context.driver = webdriver.Chrome(desired_capabilities=caps)
