@@ -1,31 +1,3 @@
 [ {
-  "buildOrder" : 13,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/13/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 147756
-  }
-}, {
-  "buildOrder" : 12,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/12/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 173012
-  }
-}, {
-  "buildOrder" : 11,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/11/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 163659
-  }
-}, {
-  "buildOrder" : 10,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/10/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 143153
-  }
-}, {
   "data" : { }
 } ]
