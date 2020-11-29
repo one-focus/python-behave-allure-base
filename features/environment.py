@@ -14,7 +14,7 @@ def before_all(context):
         'selenoid:options':
             {
                 'enableVNC': True,
-                'enableVideo': True
+                'enableVideo': False
             },
         # -- Chrome browser mobile emulation and headless options
         # 'goog:chromeOptions': {
