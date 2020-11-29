@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sun Nov 29 22:17:15 GMT 2020","Sun Nov 29 22:17:17 GMT 2020","1298","","","","","","Validate left menu -- @1.4 ",""
+"passed","Sun Nov 29 22:17:06 GMT 2020","Sun Nov 29 22:17:13 GMT 2020","6741","","","","","","Validate left menu -- @1.2 ",""
+"passed","Sun Nov 29 22:16:59 GMT 2020","Sun Nov 29 22:17:09 GMT 2020","9497","","","","","","Invalid login - data table",""
+"passed","Sun Nov 29 22:16:59 GMT 2020","Sun Nov 29 22:17:03 GMT 2020","3955","","","","","","Validate search",""
+"passed","Sun Nov 29 22:17:13 GMT 2020","Sun Nov 29 22:17:15 GMT 2020","2701","","","","","","Validate left menu -- @1.3 ",""
+"passed","Sun Nov 29 22:17:03 GMT 2020","Sun Nov 29 22:17:06 GMT 2020","2334","","","","","","Validate left menu -- @1.1 ",""
+"passed","Sun Nov 29 22:17:17 GMT 2020","Sun Nov 29 22:17:18 GMT 2020","1722","","","","","","Validate left menu -- @1.5 ",""
