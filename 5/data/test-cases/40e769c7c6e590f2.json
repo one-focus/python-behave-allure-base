@@ -1,0 +1,155 @@
+{
+  "uid" : "40e769c7c6e590f2",
+  "name" : "Validate left menu -- @1.1 ",
+  "fullName" : "features/tests/Regression.feature:Validate left menu",
+  "historyId" : "82b3d727855f1e7d0c1da37298586813",
+  "time" : {
+    "start" : 1606673757595,
+    "stop" : 1606673758439,
+    "duration" : 844
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606673757649,
+        "stop" : 1606673757849,
+        "duration" : 200
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click on Contents",
+      "time" : {
+        "start" : 1606673757849,
+        "stop" : 1606673758153,
+        "duration" : 304
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I see \"Wikipedia:Contents\" on the page",
+      "time" : {
+        "start" : 1606673758153,
+        "stop" : 1606673758438,
+        "duration" : 285
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Contents"
+  }, {
+    "name" : "text",
+    "value" : "Wikipedia:Contents"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "a668157a17ebec6d",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/4//#testresult/a668157a17ebec6d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606673471140,
+          "stop" : 1606673471920,
+          "duration" : 780
+        }
+      }, {
+        "uid" : "5203332c58337593",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/5203332c58337593",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606149702012,
+          "stop" : 1606149702809,
+          "duration" : 797
+        }
+      }, {
+        "uid" : "5eac02649f30fa3",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/5eac02649f30fa3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606148030314,
+          "stop" : 1606148031011,
+          "duration" : 697
+        }
+      }, {
+        "uid" : "94e5ea4f1cf37b06",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/2//#testresult/94e5ea4f1cf37b06",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606147707252,
+          "stop" : 1606147708602,
+          "duration" : 1350
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "40e769c7c6e590f2.json",
+  "parameterValues" : [ "Contents", "Wikipedia:Contents" ]
+}

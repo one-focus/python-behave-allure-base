@@ -1,0 +1,155 @@
+{
+  "uid" : "532e1d15ff114c27",
+  "name" : "Validate left menu -- @1.5 ",
+  "fullName" : "features/tests/Regression.feature:Validate left menu",
+  "historyId" : "a4081c5a89d84572058f619bdad39e7f",
+  "time" : {
+    "start" : 1606673762752,
+    "stop" : 1606673763293,
+    "duration" : 541
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606673762771,
+        "stop" : 1606673762919,
+        "duration" : 148
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "When I click on Donate",
+      "time" : {
+        "start" : 1606673762919,
+        "stop" : 1606673763180,
+        "duration" : 261
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    }, {
+      "name" : "Then I see \"Donation amount\" on the page",
+      "time" : {
+        "start" : 1606673763181,
+        "stop" : 1606673763293,
+        "duration" : 112
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false,
+      "stepsCount" : 0
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true,
+    "stepsCount" : 3
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Donate"
+  }, {
+    "name" : "text",
+    "value" : "Donation amount"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 5
+      },
+      "items" : [ {
+        "uid" : "50347fc06b823bd8",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/4//#testresult/50347fc06b823bd8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606673476450,
+          "stop" : 1606673477054,
+          "duration" : 604
+        }
+      }, {
+        "uid" : "7a3b70f9305b2243",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/7a3b70f9305b2243",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606149706789,
+          "stop" : 1606149708181,
+          "duration" : 1392
+        }
+      }, {
+        "uid" : "85726af219103257",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/3//#testresult/85726af219103257",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606148035068,
+          "stop" : 1606148035534,
+          "duration" : 466
+        }
+      }, {
+        "uid" : "41270c94766903ce",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/2//#testresult/41270c94766903ce",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606147712923,
+          "stop" : 1606147713459,
+          "duration" : 536
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "532e1d15ff114c27.json",
+  "parameterValues" : [ "Donate", "Donation amount" ]
+}
