@@ -1,0 +1,120 @@
+{
+  "uid" : "5acb9f6773977e9b",
+  "name" : "10 Validate search",
+  "fullName" : "features/tests/Features/Feature10.feature:10 Validate search",
+  "historyId" : "bec5e8a3538e7a43e79c3820d6cff7a0",
+  "time" : {
+    "start" : 1606691485266,
+    "stop" : 1606691487860,
+    "duration" : 2594
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606691485296,
+        "stop" : 1606691486050,
+        "duration" : 754
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I type \"Test automation\" in search field",
+      "time" : {
+        "start" : 1606691486050,
+        "stop" : 1606691486426,
+        "duration" : 376
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on search button",
+      "time" : {
+        "start" : 1606691486426,
+        "stop" : 1606691487333,
+        "duration" : 907
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"test automation is the use of\" on the page",
+      "time" : {
+        "start" : 1606691487333,
+        "stop" : 1606691487860,
+        "duration" : 527
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "search"
+  }, {
+    "name" : "feature",
+    "value" : "10 Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "search", "regression" ]
+  },
+  "source" : "5acb9f6773977e9b.json",
+  "parameterValues" : [ ]
+}

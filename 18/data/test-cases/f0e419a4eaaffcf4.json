@@ -1,0 +1,108 @@
+{
+  "uid" : "f0e419a4eaaffcf4",
+  "name" : "3 Validate left menu -- @1.2 ",
+  "fullName" : "features/tests/Features/Feature3.feature:3 Validate left menu",
+  "historyId" : "d43ec982540ef1b314804df0e11891f0",
+  "time" : {
+    "start" : 1606691515487,
+    "stop" : 1606691519285,
+    "duration" : 3798
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606691515535,
+        "stop" : 1606691515956,
+        "duration" : 421
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on Current events",
+      "time" : {
+        "start" : 1606691515956,
+        "stop" : 1606691517049,
+        "duration" : 1093
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"Portal:Current events\" on the page",
+      "time" : {
+        "start" : 1606691517050,
+        "stop" : 1606691519284,
+        "duration" : 2234
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "3 Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Current events"
+  }, {
+    "name" : "text",
+    "value" : "Portal:Current events"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "regression" ]
+  },
+  "source" : "f0e419a4eaaffcf4.json",
+  "parameterValues" : [ "Current events", "Portal:Current events" ]
+}
