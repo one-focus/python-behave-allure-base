@@ -20,14 +20,14 @@ def step_impl(context, text, field_name):
 def step_impl(context, text, element):
     element_text = context.current_page.get_text(element)
     if text not in element_text:
-        raise RuntimeError(f'{element} text is {element_text}. Expected: {text}')
+        raise RuntimeError(f"{element} text is {element_text}. Expected: {text}")
 
 
 @then('I see "{text}" on the page')
 def step_impl(context, text):
     element = (By.TAG_NAME, 'body')
     WebDriverWait(context.driver, 5).until(
-        ec.text_to_be_present_in_element(element, text), f'Unable to find text: {text}')
+        ec.text_to_be_present_in_element(element, text), f"Unable to find text: {text}")
 
 
 @step('I am on {page_name} page')

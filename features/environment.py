@@ -14,7 +14,7 @@ def before_all(context):
             'args': ['headless']
         }
 
-        # -- Android options
+        # -- Selenoid Android options
         # "browserName": "android",
         # "version": "9.0",
         # 'selenoid:options': {
@@ -22,7 +22,7 @@ def before_all(context):
         #     'enableVideo': True
         # }
 
-        # -- Selenoid options
+        # -- Chrome Selenoid options
         # 'browserName': 'chrome',
         # 'version': '86.0'
         # 'enableVNC': True,
