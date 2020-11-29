@@ -1,0 +1,104 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.WebDriverException: Message: Session timed out or not found\n\n",
+      "children" : [ {
+        "name" : "1 Validate search",
+        "uid" : "a0e27cde3ee1e57e",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690982854,
+          "stop" : 1606691102852,
+          "duration" : 119998
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Invalid login - data table",
+        "uid" : "b354613dfff4bc00",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690983502,
+          "stop" : 1606691112135,
+          "duration" : 128633
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Validate search",
+        "uid" : "a58b3579e131ee2f",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690984942,
+          "stop" : 1606691101383,
+          "duration" : 116441
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "5 Validate search",
+        "uid" : "2fa996e56892bf1e",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690986176,
+          "stop" : 1606691103875,
+          "duration" : 117699
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "7 Validate search",
+        "uid" : "740f662ad20ac682",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606690986395,
+          "stop" : 1606691101560,
+          "duration" : 115165
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "10 Validate left menu -- @1.1 ",
+        "uid" : "de0d00063db6dc88",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606691023561,
+          "stop" : 1606691106190,
+          "duration" : 82629
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Contents", "Wikipedia:Contents" ]
+      }, {
+        "name" : "4 Validate left menu -- @1.1 ",
+        "uid" : "6ad8f870e98bed0c",
+        "parentUid" : "72adecaf3a294cb40acb37661538eb56",
+        "status" : "broken",
+        "time" : {
+          "start" : 1606691023567,
+          "stop" : 1606691106616,
+          "duration" : 83049
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "Contents", "Wikipedia:Contents" ]
+      } ],
+      "uid" : "72adecaf3a294cb40acb37661538eb56"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
