@@ -1,0 +1,158 @@
+{
+  "uid" : "7a592ab72d14c6d5",
+  "name" : "Validate search",
+  "fullName" : "features/tests/Regression.feature:Validate search",
+  "historyId" : "7a4fb1ad304adc79f843845f5180b79c",
+  "time" : {
+    "start" : 1606693504604,
+    "stop" : 1606693518052,
+    "duration" : 13448
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606693504711,
+        "stop" : 1606693509682,
+        "duration" : 4971
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I type \"Test automation\" in search field",
+      "time" : {
+        "start" : 1606693509682,
+        "stop" : 1606693511749,
+        "duration" : 2067
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on search button",
+      "time" : {
+        "start" : 1606693511749,
+        "stop" : 1606693515335,
+        "duration" : 3586
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"test automation is the use of\" on the page",
+      "time" : {
+        "start" : 1606693515335,
+        "stop" : 1606693518052,
+        "duration" : 2717
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "tag",
+    "value" : "search"
+  }, {
+    "name" : "feature",
+    "value" : "Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "1e404b9d94816c61",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/20//#testresult/1e404b9d94816c61",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606693065037,
+          "stop" : 1606693072233,
+          "duration" : 7196
+        }
+      }, {
+        "uid" : "7c4d5eff7740e057",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/19//#testresult/7c4d5eff7740e057",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606691981921,
+          "stop" : 1606691985339,
+          "duration" : 3418
+        }
+      }, {
+        "uid" : "ef9110a30f401f",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/18//#testresult/ef9110a30f401f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606691451758,
+          "stop" : 1606691454659,
+          "duration" : 2901
+        }
+      } ]
+    },
+    "tags" : [ "search", "regression" ]
+  },
+  "source" : "7a592ab72d14c6d5.json",
+  "parameterValues" : [ ]
+}

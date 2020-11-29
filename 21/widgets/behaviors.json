@@ -1,0 +1,114 @@
+{
+  "total" : 10,
+  "items" : [ {
+    "uid" : "2396f2e3c3e00076813a80899f413a1a",
+    "name" : "Feature 8",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 36,
+      "unknown" : 0,
+      "total" : 36
+    }
+  }, {
+    "uid" : "394526730290f5e01f81b41a3972b30c",
+    "name" : "Feature 7",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "a2288cd7a5aa4c7ca212cbfec41f3f7a",
+    "name" : "Feature 3",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "e1ba7652652d70fb6da441f50503309a",
+    "name" : "Feature 4",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "c288d5208239e6e5041e27c58f610541",
+    "name" : "Feature 5",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "f8bb099a74c6801c7d756ac734f21c82",
+    "name" : "Feature 6",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 31,
+      "unknown" : 0,
+      "total" : 31
+    }
+  }, {
+    "uid" : "d17cf78e9808f9b439d7056080a2eef5",
+    "name" : "Feature 2",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 26,
+      "unknown" : 0,
+      "total" : 26
+    }
+  }, {
+    "uid" : "def7b0909c901de5b29f6e129b2d8fcd",
+    "name" : "Feature 1",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 26,
+      "unknown" : 0,
+      "total" : 26
+    }
+  }, {
+    "uid" : "215759a8c4f680feea600d931c4d4db1",
+    "name" : "Main page",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
+    }
+  }, {
+    "uid" : "14102d61eef2af473312d4f91dec531b",
+    "name" : "Login",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

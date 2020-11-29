@@ -1,0 +1,128 @@
+{
+  "uid" : "97e3539d15b7d1ef",
+  "name" : "7 Validate left menu -- @1.25 ",
+  "fullName" : "features/tests/Features/Feature7.feature:7 Validate left menu",
+  "historyId" : "61d481d92c4e2c8f671aac057cc02674",
+  "time" : {
+    "start" : 1606693719167,
+    "stop" : 1606693723883,
+    "duration" : 4716
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606693719333,
+        "stop" : 1606693720811,
+        "duration" : 1478
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on Donate",
+      "time" : {
+        "start" : 1606693720811,
+        "stop" : 1606693723155,
+        "duration" : 2344
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"Donation amount\" on the page",
+      "time" : {
+        "start" : 1606693723156,
+        "stop" : 1606693723882,
+        "duration" : 726
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Feature 7"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Donate"
+  }, {
+    "name" : "text",
+    "value" : "Donation amount"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "e3c2a9d259a143aa",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/20//#testresult/e3c2a9d259a143aa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606693306904,
+          "stop" : 1606693308685,
+          "duration" : 1781
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "97e3539d15b7d1ef.json",
+  "parameterValues" : [ "Donate", "Donation amount" ]
+}
