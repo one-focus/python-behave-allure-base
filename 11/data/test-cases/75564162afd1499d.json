@@ -1,0 +1,128 @@
+{
+  "uid" : "75564162afd1499d",
+  "name" : "Validate left menu -- @1.2 ",
+  "fullName" : "features/tests/Regression.feature:Validate left menu",
+  "historyId" : "ab750ac8a0db98bab61f87814286542d",
+  "time" : {
+    "start" : 1606689681329,
+    "stop" : 1606689685270,
+    "duration" : 3941
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606689681359,
+        "stop" : 1606689681726,
+        "duration" : 367
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on Current events",
+      "time" : {
+        "start" : 1606689681726,
+        "stop" : 1606689682855,
+        "duration" : 1129
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"Portal:Current events\" on the page",
+      "time" : {
+        "start" : 1606689682855,
+        "stop" : 1606689685270,
+        "duration" : 2415
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Current events"
+  }, {
+    "name" : "text",
+    "value" : "Portal:Current events"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "4cff50b5b0185ee0",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/10//#testresult/4cff50b5b0185ee0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606689451301,
+          "stop" : 1606689455085,
+          "duration" : 3784
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "75564162afd1499d.json",
+  "parameterValues" : [ "Current events", "Portal:Current events" ]
+}

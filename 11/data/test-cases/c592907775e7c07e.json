@@ -1,0 +1,128 @@
+{
+  "uid" : "c592907775e7c07e",
+  "name" : "8 Validate left menu -- @1.1 ",
+  "fullName" : "features/tests/Features/Feature8.feature:8 Validate left menu",
+  "historyId" : "d514eae7a640fbe52a3a2eb6524f1dfb",
+  "time" : {
+    "start" : 1606689817220,
+    "stop" : 1606689818979,
+    "duration" : 1759
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Given I open home page",
+      "time" : {
+        "start" : 1606689817256,
+        "stop" : 1606689817747,
+        "duration" : 491
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "When I click on Contents",
+      "time" : {
+        "start" : 1606689817747,
+        "stop" : 1606689818294,
+        "duration" : 547
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I see \"Wikipedia:Contents\" on the page",
+      "time" : {
+        "start" : 1606689818294,
+        "stop" : 1606689818979,
+        "duration" : 685
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "tag",
+    "value" : "regression"
+  }, {
+    "name" : "feature",
+    "value" : "Main page"
+  }, {
+    "name" : "framework",
+    "value" : "behave"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "menu item",
+    "value" : "Contents"
+  }, {
+    "name" : "text",
+    "value" : "Wikipedia:Contents"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "def942510b9943bd",
+        "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/10//#testresult/def942510b9943bd",
+        "status" : "passed",
+        "time" : {
+          "start" : 1606689570260,
+          "stop" : 1606689571544,
+          "duration" : 1284
+        }
+      } ]
+    },
+    "tags" : [ "regression" ]
+  },
+  "source" : "c592907775e7c07e.json",
+  "parameterValues" : [ "Contents", "Wikipedia:Contents" ]
+}
