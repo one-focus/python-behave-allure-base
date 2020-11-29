@@ -36,7 +36,7 @@ class BasePage:
     def get_element(self, element_name, timeout=5):
         locator = self._elements_map.get(element_name)
         if locator is None:
-            raise RuntimeError(f"Failed to find element '{element_name}' at 'elements_map' dictionary on screen")
+            raise RuntimeError(f'Failed to find element "{element_name}" at "elements_map" dictionary on screen')
         expected_condition = ec.presence_of_element_located(locator)
         return WebDriverWait(self.driver, timeout).until(
             expected_condition, message=f'Unable to locate element: "{element_name}"')

@@ -41,7 +41,7 @@ def _run_feature(feature, tags=None, userdata=None):
     :type userdata: list
     :return: Feature and status
     """
-    logger.debug(f"Processing feature: {feature}")
+    logger.debug(f'Processing feature: {feature}')
     if not userdata:
         params = f'--tags={tags} --no-capture'
     else:
