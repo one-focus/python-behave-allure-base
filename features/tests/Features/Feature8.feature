@@ -1,6 +1,6 @@
 # Created by Alex Kardash at 14/11/2020
 @regression
-Feature: 8 Main page
+Feature: Feature 8
   Validate main page
 
   Background:
