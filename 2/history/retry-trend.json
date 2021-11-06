@@ -3,13 +3,10 @@
   "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/2/",
   "reportName" : "Allure Report with history",
   "data" : {
-    "run" : 6,
+    "run" : 0,
     "retry" : 0
   }
 }, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/1/",
-  "reportName" : "Allure Report with history",
   "data" : {
     "run" : 0,
     "retry" : 0

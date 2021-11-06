@@ -2,12 +2,7 @@
   "buildOrder" : 2,
   "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/2/",
   "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 6211
-  }
+  "data" : { }
 }, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/1/",
-  "reportName" : "Allure Report with history",
   "data" : { }
 } ]
