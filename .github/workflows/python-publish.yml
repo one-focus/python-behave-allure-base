@@ -22,7 +22,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: 3.10
+        python-version: 3.10.0
     - name: Install dependencies
       run: |
         pip install -r requirements.txt
@@ -76,6 +76,4 @@ jobs:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
         message: |
-          ${{ env.DATE }} Результат проверки форм на сайтах EMK24
-          - https://one-focus.github.io/popup-automation/${{ env.RUN_NUMBER }}/
           - 🟢 ${{ env.PASS_TC }} | 🔴 ${{ env.BROKEN_TC }}
