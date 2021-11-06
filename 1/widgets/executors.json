@@ -1,10 +1,1 @@
-[ {
-  "name" : "GitHub Actions",
-  "type" : "github",
-  "url" : "https://one-focus.github.io/python-behave-allure-base",
-  "buildOrder" : 1,
-  "buildName" : "GitHub Actions Run #379281738",
-  "buildUrl" : "https://github.com/one-focus/python-behave-allure-base/actions/runs/379281738",
-  "reportName" : "Allure Report with history",
-  "reportUrl" : "https://one-focus.github.io/python-behave-allure-base/1/"
-} ]
+[ ]
