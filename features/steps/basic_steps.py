@@ -52,19 +52,18 @@ def enter_in(context, text, field_name, section=None):
 @then('text in "(?P<element>.*)" is (?P<option>.*)')
 def text_in_element_is_state(context, element, option):
     if element == 'body': element = By.TAG_NAME, 'body'
-    match option:
-        case 'displayed':
-            assert context.page.is_element_displayed(element), f'Element {element} is not displayed'
-        case 'not displayed':
-            assert context.page.is_element_invisible(element), f'Element {element} is displayed'
-        case 'enabled':
-            assert context.page.is_element_displayed(element), f'Element {element} is disabled'
-        case 'disabled':
-            assert not context.page.is_element_displayed(element), f'Element {element} is enabled'
-        case '_':
-            element_text = context.page.get_text(element)
-            if option not in element_text:
-                raise RuntimeError(f'Text for element {element}: "{element_text}". Expected: {option}')
+    if 'displayed' in option:
+        assert context.page.is_element_displayed(element), f'Element {element} is not displayed'
+    elif 'not displayed' in option:
+        assert context.page.is_element_invisible(element), f'Element {element} is displayed'
+    elif 'enabled' in option:
+        assert context.page.is_element_displayed(element), f'Element {element} is disabled'
+    elif 'disabled' in option:
+        assert not context.page.is_element_displayed(element), f'Element {element} is enabled'
+    else:
+        element_text = context.page.get_text(element)
+        if option not in element_text:
+            raise RuntimeError(f'Text for element {element}: "{element_text}". Expected: {option}')
 
 
 @step('page (?P<page_name>.*) is opened')
