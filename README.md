@@ -1,20 +1,9 @@
-## Simple project using Page Object model and selenium to automate https://wikipedia.org
-### Structure:
-+ Pages
+## Simple project using Page Object model and selenium
+### Installation:
++ Install HomeBrew
 ```
-+ Base page 
-+ Login page
-+ Main page
-+ Search Results page
-```
-+ Tests:
-```
-+ Regression.feature
-+ Validation.feature
-```
-### Installation
-```
-brew install python
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install python@3.10
 brew install chromedriver
 pip install git+https://github.com/behave/behave
 pip install -r requirements.txt
@@ -22,18 +11,14 @@ pip install -r requirements.txt
 ### Run 
 ```
 behave
-```
-+ Use tags
-```
 behave --tags=regression,search
 ```
-+ Generate allure report
+```
+python behave-parallel.py --tags=regression,search
+```
+### Report
 ```
 behave -f allure_behave.formatter:AllureFormatter -o allure-results --tags=regression,search  
 allure generate --clean "allure-results" -o "allure-report"
 allure serve allure-results
-```
-+ Run parallel (by features)
-```
-python behave-parallel.py --tags=regression,search
 ```

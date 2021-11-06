@@ -1,14 +1,10 @@
-from .login_page import LoginPage
-from .main_page import MainPage
-from .search_results_page import SearchResultsPage
+from .google_page import GooglePage
 
 page_map = {
-    "login": LoginPage,
-    "main": MainPage,
-    "search results": SearchResultsPage
+    "google.com": GooglePage
 }
 
 
 def factory(page_name: str):
     """Encapsulate screen creation"""
-    return page_map[page_name]
+    return page_map[page_name] if page_name in page_map else None

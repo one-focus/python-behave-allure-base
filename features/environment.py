@@ -1,12 +1,18 @@
 import configparser
 
+from sys import platform
+
 import allure
 from selenium import webdriver
 from behave.contrib.scenario_autoretry import patch_scenario_with_autoretry
-
+import telebot
 
 # TODO check all context attributes on https://behave.readthedocs.io/en/latest/context_attributes.html#user-attributes
+import gmail
+
+
 def before_all(context):
+    args = ['headless', 'window-size=1920,1080'] if platform != 'darwin' else []
     caps = {
         # -- Chrome Selenoid options
         'browserName': 'chrome',
@@ -17,10 +23,11 @@ def before_all(context):
                 'enableVideo': False
             },
         # -- Chrome browser mobile emulation and headless options
-        # 'goog:chromeOptions': {
-        #     # 'mobileEmulation': {'deviceName': 'iPhone X'},
-        #     'args': ['headless']
-        # }
+        'goog:chromeOptions': {
+            # 'mobileEmulation': {'deviceName': 'iPhone X'},
+            # 'window-size': ['1920,1080'],
+            'args': args
+        }
     }
     '''
         -- Android browser Selenoid options
@@ -44,35 +51,46 @@ def before_all(context):
     '''
 
     # -- Local driver
-    # context.driver = webdriver.Chrome(desired_capabilities=caps)
+    context.driver = webdriver.Chrome(desired_capabilities=caps)
 
     # -- Remote driver
-    context.driver = webdriver.Remote(command_executor='http://67.207.88.128:4444/wd/hub', desired_capabilities=caps)
+    # context.driver = webdriver.Remote(command_executor='http://67.207.88.128:4444/wd/hub', desired_capabilities=caps)
 
-    context.driver.implicitly_wait(5)
-
+    context.driver.implicitly_wait(10)
+    context.driver.maximize_window()
     # read config
     parser = configparser.ConfigParser()
     parser.read('behave.ini')
     context.config = parser
+    context.values = {}
+    gmail.delete_all_emails()
 
 
 def before_feature(context, feature):
     # retry failures
     for scenario in feature.scenarios:
         # if "flaky" in scenario.effective_tags:
-        patch_scenario_with_autoretry(scenario, max_attempts=2)
+        patch_scenario_with_autoretry(scenario, max_attempts=1)
 
 
 def before_scenario(context, scenario):
+    # context.driver.delete_all_cookies()
+    context.values = {}
+    print(f'Scenario started: {scenario.name}')
     context.driver.delete_all_cookies()
 
 
 def after_step(context, step) -> None:
-    if step.status == 'failed':
+    try:
         allure.attach(context.driver.get_screenshot_as_png(),
-                      name='bug.png',
+                      name=f'screenshot',
                       attachment_type=allure.attachment_type.PNG)
+    except Exception:
+        pass
+    if step.status == 'failed':
+        bot = telebot.TeleBot(context.config['telegram']['token'])
+        bot.send_photo(chat_id=context.config['telegram']['chat_id'], photo=context.driver.get_screenshot_as_png(),
+                       caption=f'🐞{context.page.__class__.__name__}\n{step.exception}')
 
 
 def after_all(context):

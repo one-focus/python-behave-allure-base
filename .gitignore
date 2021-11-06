@@ -1,5 +1,3 @@
-.idea/
-.idea/*
-allure-results/
-allure-results/*
-**/*.DS_Store
+/allure-results/
+token.json
+/allure-report/
