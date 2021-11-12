@@ -1,0 +1,66 @@
+name: Test
+
+on: push
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        tag: ["regression"]
+    steps:
+      - uses: actions/checkout@v2
+      - name: Cache requirements
+        uses: actions/cache@v2
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.7
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+          pip install git+https://github.com/behave/behave
+      - name: Install allure
+        run: |
+          curl -o allure-2.7.0.tgz -Ls https://dl.bintray.com/qameta/generic/io/qameta/allure/allure/2.7.0/allure-2.7.0.tgz
+          sudo tar -zxvf allure-2.7.0.tgz -C /opt/
+          sudo ln -s /opt/allure-2.7.0/bin/allure /usr/bin/allure
+          rm -rf allure-2.7.0.tgz
+      - name: Test with behave
+        run: |
+          python behave-parallel.py --tags=${{ matrix.tag }}
+      - name: Generate report
+        run: |
+          allure generate --clean "allure-results" -o "allure-report"
+      - name: Get Allure history
+        uses: actions/checkout@v2
+        if: always()
+        continue-on-error: true
+        with:
+          ref: gh-pages
+          path: gh-pages
+      - name: Test marketplace action
+        uses: simple-elf/allure-report-action@master
+        if: always()
+        id: allure-report
+        with:
+          allure_results: allure-results
+          gh_pages: gh-pages
+          allure_report: allure-report
+          allure_history: allure-history
+      - name: Set status
+        run: |
+          summary=$(grep -A 5 '"broken" : 0' "$(pwd)/allure-report/widgets/summary.json")
+          [[ ! -z "$summary" ]] || exit 1
+      - name: Deploy report to Github Pages
+        if: always()
+        uses: peaceiris/actions-gh-pages@v2
+        env:
+          PERSONAL_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PUBLISH_BRANCH: gh-pages
+          PUBLISH_DIR: allure-history
